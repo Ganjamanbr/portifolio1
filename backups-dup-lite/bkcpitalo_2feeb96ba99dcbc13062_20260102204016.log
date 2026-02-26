@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: January 2, 2026 8:41 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.14
+WORDPRESS:	6.9
+PHP INFO:	8.2.27 | SAPI: cgi-fcgi
+SERVER:		nginx/1.26.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 24MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:56 | filtered:0 | create:56
+FILTERED: []
+SQL CREATED: bkcpitalo_2feeb96ba99dcbc13062_20260102204016_database.sql
+SQL FILE SIZE: 10.25MB (10748432)
+SQL FILE TIME: 2026-01-02 20:41:03
+SQL RUNTIME: 1.60 seg.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/Italo/Local Sites/mik/app/public
+ARCHIVE FILE: bkcpitalo_2feeb96ba99dcbc13062_20260102204016_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	545.24MB
+STATS:	Dirs 5,962 | Files 26,673
+SQL ADDED: bkcpitalo_2feeb96ba99dcbc13062_20260102204016_database.sql
+ZipArchive Object
+(
+    [lastId] => 32634
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 32635
+    [filename] => C:\Users\Italo\Local Sites\mik\app\public\wp-content\backups-dup-lite\tmp\bkcpitalo_2feeb96ba99dcbc13062_20260102204016_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 32634
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 205.34MB
+ARCHIVE RUNTIME: 86.65 seg.
+MEMORY STACK: 36MB
+building installer
+TESTE DE CONSISTÊNCIA DE ARQUIVO: APROVADO
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 10.25MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 207.66MB 
+CONTAGEM ESPERADA DE ARQUIVOS/DIRETÓRIOS: 32,635
+CONTAGEM REAL DE ARQUIVOS/DIRETÓRIOS: 32,634
+TESTE DE CONSISTÊNCIA DE ARQUIVO: Aprovado
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 94.06 seg.
+PEAK PHP MEMORY USED: 42MB
+DONE PROCESSING => bkcpitalo January 2, 2026 8:42 pm
+

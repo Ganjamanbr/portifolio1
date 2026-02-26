@@ -1,0 +1,26 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Desativado
+Operating System 	: WINNT
+Software 		: nginx/1.26.1
+MySQL version 		: 8.0.35
+XML Reader 		: Sim
+PHP Version 		: 8.2.27
+PHP Max Input Vars 	: 4000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Sim
+PHP Max Execution Time 	: 1200
+Max Upload Size 	: 300 MB
+Memory Limit 		: O limite de memória atual é 40M. Recomendamos definir a memória com pelo menos 64M.
+Timezone 		: America/Sao_Paulo
+
+-----
+
+Importing Started! - 12:46:27 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
