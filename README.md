@@ -50,3 +50,9 @@ UPDATE wp_options SET option_value = 'https://SEU_DOMINIO.up.railway.app' WHERE 
 ```
 
 Se usar domínio customizado, substitua pela URL final.
+
+## Troubleshooting
+
+- Erro `AH00534: apache2: Configuration error: More than one MPM loaded.`
+	- Já corrigido no `docker-entrypoint-railway.sh`, forçando apenas `mpm_prefork` ativo.
+	- Faça novo deploy para aplicar a correção.

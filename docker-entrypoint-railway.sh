@@ -21,4 +21,8 @@ done
 
 chown -R www-data:www-data /var/www/html
 
+a2dismod mpm_event >/dev/null 2>&1 || true
+a2dismod mpm_worker >/dev/null 2>&1 || true
+a2enmod mpm_prefork >/dev/null 2>&1 || true
+
 exec docker-entrypoint.sh "$@"
