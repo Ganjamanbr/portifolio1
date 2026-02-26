@@ -1,0 +1,10 @@
+.git
+.gitignore
+backups-dup-lite
+cache
+updraft
+w3tc-config
+wflogs
+database.sql
+nixpacks.toml
+package.json
